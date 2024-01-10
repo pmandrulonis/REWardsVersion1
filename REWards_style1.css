@@ -1,0 +1,50 @@
+html * {
+    font-family: freight-text-pro, Georgia, serif;
+    font-style: normal;
+    font-size:105%;
+}
+
+.yellowBanner{
+    background-color: #F1C400;
+    width:100%;
+    display:flex;
+}
+
+img{
+    height:75px;
+    width:auto;
+    padding: 10px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    color:#002D72;
+    margin:15px;
+}
+
+button {
+    background-color: #002D72;
+    color:#F1C400;
+    border-radius: 5px;
+    padding:10px;
+    width:150px;
+}
+button:hover{
+    background-color:#F1C400;
+    color:#002D72; 
+    border-color:#F1C400;
+}
+.Map{
+    height:100px;
+    width:200px;
+}
+div {
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 100px;
+}
+
+footer {
+    margin-left:15px;
+}
